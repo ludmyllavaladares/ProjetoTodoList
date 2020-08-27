@@ -10,5 +10,7 @@
 <script>
 export default {
   // name: 'PageName',
+  methods: {
+  }
 }
 </script>
